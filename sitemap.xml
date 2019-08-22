@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/home/</loc>
-    <lastmod>2019-08-19T21:37:58+05:30</lastmod>
+    <loc>/tags/orman-yang%C4%B1n%C4%B1/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/yang%C4%B1n-ekolojisi/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/yang%C4%B1n-ekolojisine-giri%C5%9F/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
     <lastmod>2019-08-19T21:37:58+05:30</lastmod>
   </url>
   
@@ -24,16 +49,6 @@
   
   <url>
     <loc>/tags/doktora/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,11 +94,6 @@
   
   <url>
     <loc>/posts/orman-yang%C4%B1n%C4%B1-gibi/</loc>
-    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/yang%C4%B1n-ekolojisi/</loc>
     <lastmod>2018-02-15T00:00:00+00:00</lastmod>
   </url>
   
