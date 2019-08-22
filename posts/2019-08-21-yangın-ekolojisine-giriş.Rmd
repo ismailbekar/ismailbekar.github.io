@@ -1,5 +1,5 @@
 ---
-title: Yangın Ekolojisine Giriş
+title: Yangın ekolojisine giriş
 author: İsmail Bekar
 date: '2019-08-21'
 slug: yangın-ekolojisine-giriş
