@@ -1,6 +1,5 @@
 ---
 title: Doğa Bilimlerinde R Programlamaya Giriş
-author: İsmail Bekar
 date: '2018-11-15'
 image: afis.jpeg
 ---
