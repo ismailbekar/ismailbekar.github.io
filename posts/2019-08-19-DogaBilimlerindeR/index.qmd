@@ -1,0 +1,26 @@
+---
+title: Doğa Bilimlerinde R Programlamaya Giriş
+author: İsmail Bekar
+date: '2018-11-15'
+image: afis.jpeg
+---
+
+Bu yıl Bilgecan Şen ve Nurbahar Usta bile birlikte birincisini düzenlediğimiz Doğa Bilimlerinde R Programlamaya Giriş Çalıştayını 3-4 Kasım 2018 tarihlerinde ODTÜ Biyolojik Bilimlerde gerçekleştirdik.
+
+<blockquote class="twitter-tweet">
+
+<p lang="tr" dir="ltr">
+
+3.  Doğa Bilimlerinde R Programlamaya Giriş çalıştayı bu sene <a href="https://twitter.com/ekoevoder?ref_src=twsrc%5Etfw">@ekoevoder</a>'in "Ecology and Evolutionary Biology Symposium" etkinliğinden önce düzenleniyor. Bu kez içeriğimizi yeniliyor ve tidyverse evrenine giriş yapıyoruz! <a href="https://twitter.com/nurbaharusta?ref_src=twsrc%5Etfw">@nurbaharusta</a><br><br>Başvuru formu: <a href="https://t.co/KvoplPfrbO">https://t.co/KvoplPfrbO</a> <a href="https://t.co/tiJOeOO8B3">pic.twitter.com/tiJOeOO8B3</a>
+
+    </p>
+
+    --- İsmail Bekar (@fire_ecologist) <a href="https://twitter.com/fire_ecologist/status/1552217297305083905?ref_src=twsrc%5Etfw">July 27, 2022</a>
+
+    </blockquote>
+
+    ```{=html}
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    ```
+
+![](grup.jpg){width="75%"}

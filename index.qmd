@@ -1,11 +1,18 @@
 ---
-title: "ib-site"
+title: "Dr. İsmail Bekar"
+image: photos/profilephoto.jpeg
+toc: false
+about: 
+  template: solana
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: Twitter
+      href: https://twitter.com/fire_ecologist
+    - text: GitHub
+      href: https://github.com/ismailbekar
+    - text: E-mail
+      href: mailto:ismail.bekar@icloud.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! I am İsmail. An ecologist with a focus on the intricate dynamics of forest fires. Having recently earned my PhD at ETH Zürich, I am now kindling a new phase in my career as a postdoctoral researcher at the Technical University of Munich.

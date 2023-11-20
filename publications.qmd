@@ -1,0 +1,29 @@
+---
+title: " "
+---
+
+## Published papers
+
+1.  **Bekar**, İ., Pezzatti, G.B., Conedera, M., Vacik, H., Pausas, J.G., Dupire, S., Bugmann, H., 2023. *Integrating burned area as a complementary performance measure for daily fire danger assessment: A large-scale test.*\
+    *Agricultural and Forest Meteorology 342*, 109746.\
+    [DOI: 10.1016/j.agrformet.2023.109746](https://doi.org/10.1016/j.agrformet.2023.109746)
+
+2.  Pezzatti G.B., De Angelis A., **Bekar İ**., Ricotta C., Bajocco S., Conedera M., 2020. *Complementing daily fire-danger assessment using a novel metric based on burnt area ranking.*\
+    *Agricultural and Forest Meteorology 295*, 108172.\
+    [DOI: 10.1016/j.agrformet.2020.108172](https://doi.org/10.1016/j.agrformet.2020.108172)
+
+3.  **Bekar İ**., Tavşanoğlu Ç., Pezzatti G.B., Vacik H., Pausas J.G, Bugmann H. Petter G., 2020. *Cross-regional modelling of fire occurrence in the Alps and the Mediterranean Basin.*\
+    *International Journal of Wildland Fire 29 (8)*, 712-722.\
+    [DOI: 10.1071/WF19158](https://doi.org/10.1071/WF19158)
+
+4.  **Bekar, İ**., Tavşanoğlu, Ç., 2017. *Modeling the drivers of natural fire regimes: The bias created by cropland fires.*\
+    *International Journal of Wildland Fire 26 (10)*, 845-851.\
+    [DOI: 10.1071/WF16183](https://doi.org/10.1071/WF16183)
+
+5.  Çatav, Ş.S., **Bekar, İ**., Ateş, B.S., Ergan, G., Oymak, F., Ülker, E.D., Tavşanoğlu, Ç., 2012. *Germination response of five eastern Mediterranean woody species to smoke solutions derived from various plants.*\
+    *Turkish Journal of Botany 36*, 480-487.\
+    [DOI: 10.3906/bot-1111-12](https://doi.org/10.3906/bot-1111-12)
+
+## Translated Books
+
+1.  [Veri Bilimi için R](http://tr.r4ds.hadley.nz) - Editor of the Turkish translation for "R for Data Science by Hadley Wickham and Garrett Grolemund"
