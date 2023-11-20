@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 I am Ismail Bekar, an ecological researcher dedicated to unravelling the complexities of fire in our ecosystems.
