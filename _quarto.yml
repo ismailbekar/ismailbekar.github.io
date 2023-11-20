@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "ib-site"
@@ -11,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
 
