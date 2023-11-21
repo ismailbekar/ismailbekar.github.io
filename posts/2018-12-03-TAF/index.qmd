@@ -1,6 +1,5 @@
 ---
 title: TAF Network ile Röportaj
-author: İsmail Bekar
 date: '2018-09-03'
 image: TAF.jpg
 ---
