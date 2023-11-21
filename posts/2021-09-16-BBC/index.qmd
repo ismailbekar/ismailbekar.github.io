@@ -4,4 +4,6 @@ date: '2021-09-16'
 image: header.png
 ---
 
-BBC Türkçe ekibinden Efe Öç ile birlikte Bodrum'a giderek 2021 yılı yangın mevsiminin yanan alanlarını gezerek mini bir belgesel hazırlanmasına katkıda bulundum. [BBC Türkçe Youtube kanalında](https://www.youtube.com/watch?v=Yi3uiS5lHQk) izlenebilir.
+BBC Türkçe ekibinden Efe Öç ile birlikte Bodrum'a giderek 2021 yılı yangın mevsiminin yanan alanlarını gezerek mini bir belgesel hazırlanmasına katkıda bulundum. BBC Türkçe Youtube kanalında izlenebilir.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yi3uiS5lHQk?si=bvO9CTU7YeZ4wZJG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
