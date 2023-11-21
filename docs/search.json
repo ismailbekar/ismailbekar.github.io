@@ -4,7 +4,7 @@
     "href": "posts/2021-08-07-TekCareUzay/index.html",
     "title": "Umut Yıldız ile yangın ekolojisi ve Akdeniz’deki yangınlar",
     "section": "",
-    "text": "Dr. Umut Yıldız ile birlikte Tek Çare Uzay kanalında yangın ekolojisi ve Akdeniz’deki yangınları canlı yayında konuştuk. Yayının kaydı Tek Çare Uzay Youtube kanalında mevcut."
+    "text": "{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}"
   },
   {
     "objectID": "posts/2018-12-03-burs/index.html",
