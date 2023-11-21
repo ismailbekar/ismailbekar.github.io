@@ -4,7 +4,4 @@ date: '2018-09-03'
 image: TAF.jpg
 ---
 
-TAF Network ekibiyle yurt dışındaki bilim insanlarıyla gerçekleştirdikleri söyleşi zinciri kapsamında bir röportaj gerçekleştirdik.
-
-\
-Röportajın tamamı TAF Network'ün [Youtube kanalında](https://www.youtube.com/watch?v=1vO27nLm5Os&t=17s) mevcut.
+TAF Network ekibiyle yurt dışındaki bilim insanlarıyla gerçekleştirdikleri söyleşi zinciri kapsamında bir röportaj gerçekleştirdik. Röportajın tamamı TAF Network'ün [Youtube kanalında](https://www.youtube.com/watch?v=1vO27nLm5Os&t=17s) mevcut.
