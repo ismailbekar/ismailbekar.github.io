@@ -2,6 +2,8 @@
 title: ""
 ---
 
+![](photos/ba.jpeg){width="1000"}
+
 ## Documentary
 
 [Orman yangın sonrasında nasıl iyileşiyor?](https://www.youtube.com/watch?v=Yi3uiS5lHQk) - BBC Türkçe

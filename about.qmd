@@ -6,8 +6,16 @@ I am Ismail Bekar, an ecologist with a interest in fire ecology. I am currently 
 
 My academic journey began at Hacettepe University in Ankara, where I graduated with a Bachelor's degree in Biology in 2013. During my undergraduate studies, I developed a keen interest in fire ecology, which led me to contribute to various related research projects.
 
-Building on this experience, I pursued and completed my Master's degree in Fire Ecology from 2013 to 2016. My research focused on understanding the complex interplay between anthropogenic and natural factors in shaping recent fire regimes in Mediterranean ecosystems under the supervision of Prof. Çağatay Tavşanoğlu.
+Building on this experience, I pursued and completed my Master's degree in fire ecology from 2013 to 2016. My research focused on understanding the interplay between anthropogenic and natural factors in shaping recent fire regimes in Mediterranean ecosystems under the supervision of Prof. Çağatay Tavşanoğlu.
 
 Towards the end of my Master's degree, I was awarded a Swiss Government Excellence Scholarship for my PhD studies. This prompted me to move to Zurich, where I started my doctoral studies at ETH Zurich in the Forest Ecology Group with Prof. Harald Bugmann.
 
 Throughout my doctoral studies, I focused on unraveling the complexity of fire regimes, using modelling approaches on fire occurrence and burned area under the supervision of Prof. Harald Bugmann and Dr. G. Boris Pezzatti.
+
+Beyond my studies and research, I spent most of my time either playing video games or running.
+
+::: {layout-ncol="2"}
+![](photos/latmos.jpeg){width="13.3cm"}
+
+![](photos/ida.jpeg){width="15cm"}
+:::
