@@ -2,6 +2,7 @@
 title: Orman yangınlarını unuttuk mu? - Esmiyor Podcast
 date: '2023-07-07'
 image: esmiyor.png
+categories: ["fire"]
 ---
 
 Esmiyor ekibiyle beraber yangın mevsiminin yaklaştığı şu günlerde orman yangınları konuştuk. Podcast Esmior'un Spotify kanalı üzerinden dinlenebilir.

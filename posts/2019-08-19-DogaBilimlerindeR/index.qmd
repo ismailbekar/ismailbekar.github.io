@@ -2,6 +2,7 @@
 title: Doğa Bilimlerinde R Programlamaya Giriş
 date: '2018-11-15'
 image: afis.jpeg
+categories: ["fire"]
 ---
 
 Bu yıl Bilgecan Şen ve Nurbahar Usta bile birlikte birincisini düzenlediğimiz Doğa Bilimlerinde R Programlamaya Giriş Çalıştayını 3-4 Kasım 2018 tarihlerinde ODTÜ Biyolojik Bilimlerde gerçekleştirdik.
