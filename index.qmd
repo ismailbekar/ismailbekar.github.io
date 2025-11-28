@@ -14,12 +14,12 @@ about:
     - text: Github
       href: https://github.com/ismailbekar
     - text: E-Mail
-      href: mailto:ismail.bekar@icloud.com
+      href: mailto:ismailbekar0@gmail.com
 ---
 
  
 
-Hi! I am İsmail. An ecologist with a focus on forest fires. Having recently earned my PhD at ETH Zürich, I am now kindling a new phase in my career as a postdoctoral researcher at the Technical University of Munich.
+Hi! I am İsmail - a researcher-turned-data-scientist with a PhD from ETH Zurich, focused on making complex things simpler and useful with data science.
 
 ## Education
 
