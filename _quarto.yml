@@ -9,13 +9,11 @@ website:
       - href: about.qmd
         text: About
       - href: blog.qmd
-        text: Fire Blog
+        text: Blog
       - href: publications.qmd
         text: Publications
       - href: media.qmd
         text: Media
-      - href: endurance.qmd
-        text: Endurance Blog
 
 format:
   html:
