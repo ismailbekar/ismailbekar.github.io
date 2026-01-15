@@ -19,7 +19,7 @@ about:
 
  
 
-Hi! I am İsmail - a researcher-turned-data-scientist with a PhD from ETH Zurich, focused on making complex things simpler and useful with data science.
+Hi! I am İsmail!
 
 ## Education
 
