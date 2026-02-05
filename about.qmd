@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-I am a quantitative researcher and data scientist with a background in environmental systems and modeling. I currently work at the Technical University of Munich where I use statistical and machine-learning methods to analyze large datasets and understand complex environmental processes.
+I am a quantitative researcher and data scientist with a background in environmental systems I currently work at the Technical University of Munich where I use statistical and machine-learning methods to analyze large datasets and understand complex environmental processes related to wildfire, climate and land use and land cover.
 
-I completed my PhD at ETH Zurich where I built and evaluated statistical and machine-learning models on large-scale datasets. Over time, something changed for me: the ecological questions stayed interesting but the part I enjoyed most was how to answer them. I found myself drawn to data, modeling and the challenge of building quantitative tools.
+I completed my PhD at ETH Zurich where I built and evaluated statistical and machine-learning models. Over time, something changed for me: the ecological questions stayed interesting but the part I enjoyed most was how to answer them. I found myself more interested to data, modeling and the challenge of building quantitative tools.
 
 In parallel with my research, I have been involved in scientific communication and outreach, including interviews, podcasts, and public talks. 
 
