@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-I am a quantitative researcher and data scientist with a background in environmental systems and risk modeling. I currently work as a postdoctoral researcher at the Technical University of Munich where I work with statistical and machine-learning models on large to understand complex environmental and risk-related processes.
+I am a quantitative researcher and data scientist with a background in environmental systems and modeling. I currently work at the Technical University of Munich where I use statistical and machine-learning methods to analyze large datasets and understand complex environmental processes.
 
-My academic journey began at Hacettepe University, where I did my master's to find out how human activities and climate interact to shape fire regimes in Mediterranean ecosystems. At some point along the way, the ecological questions themselves became less central than how to answer them. That focus became clearer during my PhD at ETH Zurich. While the research questions were about wildfires, the part of the work I consistently enjoyed most was the process itself: data, analysis and modeling. Now, I do a lot of programming and modeling in my work.
+I completed my PhD at ETH Zurich where I built and evaluated statistical and machine-learning models on large-scale datasets. Over time, something changed for me: the ecological questions stayed interesting but the part I enjoyed most was how to answer them. I found myself drawn to data, modeling and the challenge of building quantitative tools.
 
 In parallel with my research, I have been involved in scientific communication and outreach, including interviews, podcasts, and public talks. 
 

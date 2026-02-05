@@ -8,7 +8,7 @@ about:
   image-width: 20em
   links:
     - text: Google Scholar
-      href: https://scholar.google.com/citations?user=xsfomdUAAAAJ&hl=tr
+      href: https://scholar.google.com/citations?user=0L6awY0AAAAJ&hl=en
     - text: Twitter
       href: https://twitter.com/fire_ecologist
     - text: Github
@@ -16,9 +16,7 @@ about:
     - text: E-Mail
       href: mailto:ismailbekar0@gmail.com
 ---
-
  
-
 Hi! I am İsmail!
 
 ## Education
