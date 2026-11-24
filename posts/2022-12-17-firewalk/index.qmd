@@ -2,6 +2,7 @@
 title: Fire Walk
 date: 2022-12-17
 image: book.png
+categories: ["fire"]
 ---
 
 Ülgen Semerci and Burcu Yağcıoğlu interviewed me for "Fire Walk," an art book exploring various aspects of fire. The book examines fire from different angles, including the physical, ecological, artistic, and mythological. One of the most interesting stories in the book is about a painter who lost his studio in a fire and how this event changed both his art and perspective on life.

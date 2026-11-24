@@ -2,6 +2,7 @@
 title: TAF Network ile Röportaj
 date: '2018-09-03'
 image: TAF.jpg
+categories: ["fire"]
 ---
 
 TAF Network ekibiyle yurt dışındaki bilim insanlarıyla gerçekleştirdikleri söyleşi zinciri kapsamında bir röportaj gerçekleştirdik. Röportajın tamamı TAF Network'ün Youtube kanalında mevcut.

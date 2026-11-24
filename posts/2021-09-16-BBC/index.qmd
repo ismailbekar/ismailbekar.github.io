@@ -2,6 +2,7 @@
 title: BBC Türkçe ile mini belgesel
 date: '2021-09-16'
 image: header.png
+categories: ["fire"]
 ---
 
 BBC Türkçe ekibinden Efe Öç ile birlikte Bodrum'a giderek 2021 yılı yangın mevsiminin yanan alanlarını gezerek mini bir belgesel hazırlanmasına katkıda bulundum. BBC Türkçe Youtube kanalında izlenebilir.

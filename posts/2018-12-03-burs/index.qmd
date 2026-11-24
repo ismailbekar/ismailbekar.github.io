@@ -2,6 +2,7 @@
 title: İsviçre Hükümeti Mükemmeliyet Bursu
 date: '2018-12-03'
 image: SS.png
+categories: ["fire"]
 ---
 
 Bu blog gönderisi İngilizce ismi **Swiss Government Excellence Scholarship** olan ve benim İsviçre Hükümeti Mükemmeliyet Bursu diye Türkçe'ye çevirdiğim burs programına ait bilgileri içeriyor.
