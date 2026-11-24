@@ -19,10 +19,15 @@ about:
 
  
 
-Hi! I am İsmail. An ecologist with a focus on forest fires. Having recently earned my PhD at ETH Zürich, I am now kindling a new phase in my career as a postdoctoral researcher at the Technical University of Munich.
+Hi! Welcome! I am İsmail, an ecologist turned data scientist. I spent years building models to predict where forest fires spark, first during my PhD at ETH Zurich, then as a postdoc at the Technical University of Munich. Somewhere along the way, the data caught fire^1^ more than the forests did, so I am now kindling^2^ a new career in data science.
 
-## Education
+::: {style="text-align: right; font-size: 0.75em; color: grey;"}
+^1^ Fire pun #1.\
+^2^ Fire pun #2. 
+:::
 
-PhD in Ecology, ETH Zürich, 2023 \| Zürich, Switzerland\
+Education
+
+PhD in Ecology, ETH Zurich, 2023 \| Zurich, Switzerland\
 MSc in Ecology, Hacettepe University 2016 \| Ankara, Turkey\
 BSc in Biology, Hacettepe University, 2013 \| Ankara, Turkey
