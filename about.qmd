@@ -1,10 +1,11 @@
 ---
 title: "About Me"
+lightbox: true
 ---
 
-Working with nature has been my dream since childhood. That dream took me to Hacettepe University in Ankara, Turkey for a BSc in Biology and an MSc in Ecolog. Somewhere along the way it narrowed down to one question: why, where and when do wildfires burn?
+I have been in love with nature since I was a kid. I spent my summer holidays in my hometown, Rize, among green mountains and tea fields in one of the rainiest corners of Turkey. That love led me to study biology and then a master's in ecology. Somewhere along the way, it narrowed down to one question: why, where and when do wildfires burn?
 
-That question took me to ETH Zurich for my PhD and then to the Technical University of Munich as a postdoctoral fellow, where I ran my own research from start to finish: collecting the data, cleaning it, modeling it, and publishing what I found.
+That question took me to ETH Zurich for my PhD and then to the Technical University of Munich as a postdoctoral fellow.
 
 "How does that connect to data science?" you might ask.The thing about wildfires is that they feel common but statistically they are rare: millions of places and days without fire for every one that burns. That makes modeling them, as Rocky would say, bad bad bad. Every project turned into the same puzzle: huge datasets, very few events, and plenty of ways to fool yourself. Solving it kept pushing me deeper into data science than I ever planned and at some point I noticed that the fires had become the excuse. What I actually loved was the data: digging into it, finding the pattern, solving the puzzle.
 
@@ -13,9 +14,15 @@ So I am following that. I am moving into applied data science, where that kind o
 Outside work, I run a lot. I am still figuring out which distance I love most. So far, my sample includes an 18:06 5K, a 2:59 marathon and 176 km at a Backyard Ultra, where you run a 6.7 km loop every hour, on the hour, until you can't anymore (never heard of a Backyard Ultra? Drop me a message. I can talk about it for a very, very long time). Sample size is still small, so the experiment continues.
 
 When I am not running, I am bouldering, collecting Rubik's cubes or turning my flat into a tropical greenhouse, one rare aroid at a time. 
-w
-::: {layout-ncol="2"}
-![](photos/latmos.jpeg){width="13.3cm"}
 
-![](photos/ida.jpeg){width="15cm"}
+::: {.gallery layout-ncol="2"}
+
+![Munich Backyard 2026 (26 hours/176 km)](photos/gallery/MBYU2026-2.jpeg){group="about"}
+
+![Berlin Marathon 2024](photos/gallery/Berlin2024.jpeg){group="about"}
+
+![IDA 2022](photos/gallery/ida2022.jpeg){group="about"}
+
+![Latmos 2023](photos/gallery/latmos.jpeg){group="about"}
+
 :::

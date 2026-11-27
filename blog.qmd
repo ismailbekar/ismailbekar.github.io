@@ -1,19 +1,8 @@
-\-\--
-
+---
 title: "Blog"
-
 listing:
-
-contents: posts
-
-type: default
-
-sort: "date desc"
-
-categories: true
-
-include:
-
-categories: "fire"
-
-\-\--
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+---

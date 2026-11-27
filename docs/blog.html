@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Dr. İsmail Bekar – blog</title>
+<title>Dr.&nbsp;İsmail Bekar - Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,6 +25,8 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -53,7 +55,37 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -96,26 +128,261 @@ ul.task-list{list-style: none;}
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="fire">fire <span class="quarto-category-count">(7)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Blog</h1>
+</div>
 
 
 
-<p>---</p>
-<p>title: “Blog”</p>
-<p>listing:</p>
-<p>contents: posts</p>
-<p>type: default</p>
-<p>sort: “date desc”</p>
-<p>categories: true</p>
-<p>include:</p>
-<p>categories: “fire”</p>
-<p>---</p>
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
 
 
 
-</main> <!-- /main -->
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="fire" data-listing-date-sort="1688680800000" data-listing-file-modified-sort="1795484502390" data-listing-reading-time-sort="2.77">
+<div class="thumbnail">
+<p><a href="./posts/2023-07-07-EsmiyorPodcast/index.html"> <img src="./posts/2023-07-07-EsmiyorPodcast/esmiyor.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2023-07-07-EsmiyorPodcast/index.html">
+<h3 class="no-anchor listing-title">
+Orman yangınlarını unuttuk mu? - Esmiyor Podcast
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('fire'); return false;">
+fire
+</div>
+</div>
+<a href="./posts/2023-07-07-EsmiyorPodcast/index.html">
+<div class="listing-description">
+Esmiyor ekibiyle beraber yangın mevsiminin yaklaştığı şu günlerde orman yangınları konuştuk. Podcast Esmior’un Spotify kanalı üzerinden dinlenebilir.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2023-07-07-EsmiyorPodcast/index.html">
+<div class="listing-date">
+Jul 7, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="fire" data-listing-date-sort="1671231600000" data-listing-file-modified-sort="1795484502390" data-listing-reading-time-sort="0.32">
+<div class="thumbnail">
+<p><a href="./posts/2022-12-17-firewalk/index.html"> <img src="./posts/2022-12-17-firewalk/book.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2022-12-17-firewalk/index.html">
+<h3 class="no-anchor listing-title">
+Fire Walk
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('fire'); return false;">
+fire
+</div>
+</div>
+<a href="./posts/2022-12-17-firewalk/index.html">
+<div class="listing-description">
+Ülgen Semerci and Burcu Yağcıoğlu interviewed me for “Fire Walk,” an art book exploring various aspects of fire. The book examines fire from different angles, including the physical, ecological, artistic, and mythological. One of the most interesting stories in the book is about a painter who lost his studio in a fire and how this event changed both his art and perspective on life.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2022-12-17-firewalk/index.html">
+<div class="listing-date">
+Dec 17, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="fire" data-listing-date-sort="1631743200000" data-listing-file-modified-sort="1795484502390" data-listing-reading-time-sort="0.21">
+<div class="thumbnail">
+<p><a href="./posts/2021-09-16-BBC/index.html"> <img src="./posts/2021-09-16-BBC/header.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2021-09-16-BBC/index.html">
+<h3 class="no-anchor listing-title">
+BBC Türkçe ile mini belgesel
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('fire'); return false;">
+fire
+</div>
+</div>
+<a href="./posts/2021-09-16-BBC/index.html">
+<div class="listing-description">
+BBC Türkçe ekibinden Efe Öç ile birlikte Bodrum’a giderek 2021 yılı yangın mevsiminin yanan alanlarını gezerek mini bir belgesel hazırlanmasına katkıda bulundum. BBC Türkçe Youtube kanalında izlenebilir.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2021-09-16-BBC/index.html">
+<div class="listing-date">
+Sep 16, 2021
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="fire" data-listing-date-sort="1623016800000" data-listing-file-modified-sort="1795484502389" data-listing-reading-time-sort="0.2">
+<div class="thumbnail">
+<p><a href="./posts/2021-08-07-TekCareUzay/index.html"> <img src="./posts/2021-08-07-TekCareUzay/banner.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2021-08-07-TekCareUzay/index.html">
+<h3 class="no-anchor listing-title">
+Umut Yıldız ile yangın ekolojisi ve Akdeniz’deki yangınlar
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('fire'); return false;">
+fire
+</div>
+</div>
+<a href="./posts/2021-08-07-TekCareUzay/index.html">
+<div class="listing-description">
+Dr.&nbsp;Umut Yıldız ile birlikte Tek Çare Uzay kanalında yangın ekolojisi ve Akdeniz’deki yangınları canlı yayında konuştuk. Yayının kaydı Tek Çare Uzay Youtube kanalında mevcut.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2021-08-07-TekCareUzay/index.html">
+<div class="listing-date">
+Jun 7, 2021
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="fire" data-listing-date-sort="1543791600000" data-listing-file-modified-sort="1795484502389" data-listing-reading-time-sort="4.23">
+<div class="thumbnail">
+<p><a href="./posts/2018-12-03-burs/index.html"> <img src="./posts/2018-12-03-burs/SS.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2018-12-03-burs/index.html">
+<h3 class="no-anchor listing-title">
+İsviçre Hükümeti Mükemmeliyet Bursu
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('fire'); return false;">
+fire
+</div>
+</div>
+<a href="./posts/2018-12-03-burs/index.html">
+<div class="listing-description">
+Bu blog gönderisi İngilizce ismi <strong>Swiss Government Excellence Scholarship</strong> olan ve benim İsviçre Hükümeti Mükemmeliyet Bursu diye Türkçe’ye çevirdiğim burs programına ait bilgileri içeriyor.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2018-12-03-burs/index.html">
+<div class="listing-date">
+Dec 3, 2018
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="fire" data-listing-date-sort="1542236400000" data-listing-file-modified-sort="1795484502389" data-listing-reading-time-sort="0.485">
+<div class="thumbnail">
+<p><a href="./posts/2019-08-19-DogaBilimlerindeR/index.html"> <img src="./posts/2019-08-19-DogaBilimlerindeR/afis.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2019-08-19-DogaBilimlerindeR/index.html">
+<h3 class="no-anchor listing-title">
+Doğa Bilimlerinde R Programlamaya Giriş
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('fire'); return false;">
+fire
+</div>
+</div>
+<a href="./posts/2019-08-19-DogaBilimlerindeR/index.html">
+<div class="listing-description">
+Bu yıl Bilgecan Şen ve Nurbahar Usta bile birlikte birincisini düzenlediğimiz Doğa Bilimlerinde R Programlamaya Giriş Çalıştayını 3-4 Kasım 2018 tarihlerinde ODTÜ Biyolojik Bilimlerde gerçekleştirdik.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2019-08-19-DogaBilimlerindeR/index.html">
+<div class="listing-date">
+Nov 15, 2018
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="fire" data-listing-date-sort="1535925600000" data-listing-file-modified-sort="1795484502389" data-listing-reading-time-sort="0.18">
+<div class="thumbnail">
+<p><a href="./posts/2018-12-03-TAF/index.html"> <img src="./posts/2018-12-03-TAF/TAF.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2018-12-03-TAF/index.html">
+<h3 class="no-anchor listing-title">
+TAF Network ile Röportaj
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('fire'); return false;">
+fire
+</div>
+</div>
+<a href="./posts/2018-12-03-TAF/index.html">
+<div class="listing-description">
+TAF Network ekibiyle yurt dışındaki bilim insanlarıyla gerçekleştirdikleri söyleşi zinciri kapsamında bir röportaj gerçekleştirdik. Röportajın tamamı TAF Network’ün Youtube kanalında mevcut.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2018-12-03-TAF/index.html">
+<div class="listing-date">
+Sep 3, 2018
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
